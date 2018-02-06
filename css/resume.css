@@ -148,7 +148,7 @@ a:hover, a:focus, a:active {
 
 /* tabla datos.- sin borde*/
 .table td {
-    padding: 15px;
+    padding: 5px;
     border: none !important;
     vertical-align:middle;
 }
